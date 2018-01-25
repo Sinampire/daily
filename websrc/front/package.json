@@ -1,13 +1,22 @@
 {
   "name": "sinampire-daily",
   "version": "0.0.0",
-  "description": "",
   "private": true,
   "license": "UNLICENSED",
   "dependencies": {
     "handlebars": "4.0.6",
     "handlebars-loader": "1.4.0",
-    "jquery": "1.12.4"
+    "jquery": "1.12.4",
+    "lodash": "^4.17.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
 }
