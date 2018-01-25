@@ -1,0 +1,13 @@
+{
+  "name": "sinampire-daily",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "handlebars": "4.0.6",
+    "handlebars-loader": "1.4.0",
+    "jquery": "1.12.4"
+  },
+  "devDependencies": {}
+}
